@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/qdxz0qJN/telegram-anime-icon.png" width="64" />
+  <img src="https://i.ibb.co/vxqhdyFB/a65df3a1d5c8.png" width="90"/>
 </p>
 
 ---
@@ -20,9 +20,9 @@
 ✨ Anime Vibe Showcase
 
 <p align="center">
-  <img src="https://i.ibb.co/YpZ08jPC/dark-mode-preview.png" width="280"/>
-  <img src="https://i.ibb.co/HDR3vKCW/light-mode-preview.png" width="280"/>
-  <img src="https://i.ibb.co/K7Qr2rfT/chat-preview.png" width="280"/>
+  <img src="https://i.ibb.co/xSMNdsS0/36d241b696a2.png" width="90"/>
+  <img src="https://i.ibb.co/vxqhdyFB/a65df3a1d5c8.png" width="90"/>
+  <img src="https://i.ibb.co/gbWhFtxs/5cf427ca69cf.png" width="90"/>
 </p>
 
 <p align="center">
