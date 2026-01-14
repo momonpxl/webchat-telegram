@@ -177,12 +177,9 @@ const CONFIG = {
 ```
 telegram-web-messenger/
 ├── index.html          # Main application
-├── CONFIG.js           # Configuration file
-├── README.md           # This documentation
-└── assets/            # Images & icons
-    ├── preview-dark.png
-    ├── preview-light.png
-    └── telegram-icon.png
+├── script.js           # Configuration file
+├── style.css     # This documentation
+└── README.md            # Images & icons
 ```
 
 🔧 Advanced Configuration
